@@ -1,0 +1,30 @@
+/* this is with class selectors
+.container .text{
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* this is with type selectors
+div p{
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* with div type selector & .text class selector
+div .text{
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/*  with .container class selector & p type selector */
+.container p{
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}

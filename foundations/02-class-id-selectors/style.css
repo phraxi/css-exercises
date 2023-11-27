@@ -1,0 +1,14 @@
+p.odd{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.big{
+    font-size: 24px;
+}
+
+#elem2{
+    font-size: 36px;
+    color: blue;
+}
+
